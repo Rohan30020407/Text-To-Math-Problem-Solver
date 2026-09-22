@@ -20,7 +20,6 @@ A Streamlit-based AI math problem solver powered by **Groq** and **LLaMA**. The 
 * Groq
 * LLaMA
 * PromptTemplate
-
 ## 📂 Project Structure
 
 ```text
@@ -34,6 +33,8 @@ Text-To-Math-Problem-Solver/
     ├── math-problem.png
     ├── solution.png
     └── example.png
+```
+
 ⚙️ Installation
 
 Clone the repository:
