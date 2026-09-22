@@ -30,61 +30,7 @@ Text-To-Math-Problem-Solver/
 ├── requirements.txt
 ├── README.md
 └── screenshots/
-```
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone <YOUR_REPOSITORY_URL>
-cd Text-To-Math-Problem-Solver
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
-
-The application will open at:
-
-```text
-http://localhost:8501
-```
-
-## 🔑 Groq API Key
-
-Enter your Groq API key in the Streamlit sidebar when the application starts.
-
-**Do not upload your API key to GitHub.**
-
-## 💡 Example
-
-### Input
-
-```text
-100 + 800 - 950
-```
-
-### Output
-
-```text
-Result: -50
-```
-
-The application also provides a step-by-step explanation of the calculation.
-
-## 📸 Application Screenshots
-
-Add screenshots of the application inside the `screenshots` folder and reference them here.
-
-## 👨‍💻 Author
-
-Rohan Soni
+    ├── main-interface.png
+    ├── math-problem.png
+    ├── solution.png
+    └── example.png
