@@ -66,14 +66,23 @@ Result: -50
 
 The application also provides a step-by-step explanation of the calculation.
 
-📸 Application Screenshots
-Main Interface
+## 📸 Application Screenshots
 
-Math Problem
+### Main Interface
 
-Generated Solution
+![Main Interface](./screenshots/main-interface.png)
 
-Example
+### Math Problem
+
+![Math Problem](./screenshots/math-problem.png)
+
+### Generated Solution
+
+![Generated Solution](./screenshots/solution.png)
+
+### Example
+
+![Example](./screenshots/example.png)
 
 👨‍💻 Author
 
